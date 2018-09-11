@@ -1,2 +1,0 @@
-# ResNeXt
-ResNeXt详解
