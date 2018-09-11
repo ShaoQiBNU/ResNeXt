@@ -35,12 +35,13 @@ ResNeXt网络详解
 
 > block的参数如表所示，第一行是cardinality C，第二行是每个path的中间channels数量，第三个是block的宽度，是第一行和第二行的乘积。
 
+![image](https://github.com/ShaoQiBNU/ResNeXt/blob/master/images/7.png)
 
 ## (三)  与ResNet对比
 
 > ResNeXt50和ResNet50对比如下：
 
-![image](https://github.com/ShaoQiBNU/ResNeXt/blob/master/images/7.png)
+![image](https://github.com/ShaoQiBNU/ResNeXt/blob/master/images/8.png)
 
 > 每个conv中，ResNeXt50的通道数要多于ResNet5，但两者的参数量是一样的，以图1为例，计算二者的参数量如下：
 
